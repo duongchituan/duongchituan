@@ -44,6 +44,6 @@ This project delivers a Power BI dashboard to support strategic decision-making.
 
 ## 🤝 Let's Connect
 
-💌 duongchituan2003@gmail.com  
-📂 [My GitHub Projects](https://github.com/nguyenhoangdouyen?tab=repositories)
+📧 duongchituan2003@gmail.com  
+📂 [My GitHub Projects](https://github.com/Simbacodee)
 
