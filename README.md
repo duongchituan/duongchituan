@@ -44,6 +44,8 @@ Helps leadership identify opportunities for market expansion and strategic focus
 **Engineer of Software Engineering** – Nguyen Tat Thanh University (GPA: 3.20/4.0)
 
 **Certifications**  
+- Nguyen Tat Thanh University – (Basic Level) – Self-Management Skills (Time Management, Problem Solving, Job
+Search Skills) – 2024 – 2024
 - SQL Advanced (HackerRank)  
 - Data Coaching 1:1 (Unigap)
 
