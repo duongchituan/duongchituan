@@ -22,7 +22,7 @@ This project explores an e-commerce dataset using SQL on BigQuery to analyze use
 This project applies RFM segmentation using Python to help SuperStore’s Marketing team identify valuable customer groups for targeted campaigns. As transaction volume grows, manual segmentation becomes impractical — this solution provides a scalable, automated approach to understand customer behavior and support personalized marketing.  
 
 ---
-### [Sales & Market Expansion Analysis (PowerBI)](https://github.com/Simbacodee/Sales-And-Market-Expansion-Analysis-PowerBI)  
+### [Sales & Market Expansion Analysis For A Global Superstore (PowerBI)](https://github.com/Simbacodee/Sales-And-Market-Expansion-Analysis-PowerBI)  
 This project delivers a Power BI dashboard to support strategic decision-making. It helps analyze company-wide sales performance, highlight top-performing products and regions, and assist senior management in identifying opportunities for market expansion.  
 
 ---
