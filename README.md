@@ -4,8 +4,7 @@
 📍 Ho Chi Minh City | 📧duongchituan2003@gmail.com
 
 ---
-## 👋 About Me
-
+## 👋 About Me  
 A data-driven IT professional transitioning into analytics, skilled in SQL, Python, and Power BI. I bring strong problem-solving from IT and apply it to real-world projects that turn data into insights. I’m especially interested in roles in E-commerce or Fintech, where data drives high-impact decisions.
 ---
 ## 📊 Featured Projects  
