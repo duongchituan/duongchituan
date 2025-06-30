@@ -6,12 +6,7 @@
 ---
 ## 👋 About Me
 
-A data-driven individual with a background in Information Technology, currently transitioning into Data Analytics.
-My IT experience builds a strong foundation in logical thinking, working with complex systems, and quickly adapting
-to tools like SQL, Python, and Power BI. Drawn by the impact of data on decision-making, I’ve actively upskilled
-through real-world projects to turn data into actionable insights, and now seek to grow further in a data-focused
-environment where I can deliver business value.
-
+A data-driven IT professional transitioning into analytics, skilled in SQL, Python, and Power BI. I bring strong problem-solving from IT and apply it to real-world projects that turn data into insights. I’m especially interested in roles in E-commerce or Fintech, where data drives high-impact decisions.
 ---
 ## 📊 Featured Projects  
 ### [E-commerce User Behavior & Funnel Analysis (SQL – BigQuery)](https://github.com/Simbacodee/E-commerce-User-Behavior-And-Funnel-Analysis-SQL-BigQuery)  
