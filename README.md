@@ -32,10 +32,9 @@ Helps leadership identify opportunities for market expansion and strategic focus
 ---
 
 ## 🛠️ Technical Skills
-
-- **Languages & Tools**: SQL (JOINS, CTEs, Window), Python (Pandas, Seaborn), Power BI  
-- **Analytics**: Hypothesis Testing, Clustering, RFM Model, Dashboarding  
-- **Platforms**: BigQuery, Git
+- **Languages**: Python, SQL  
+- **BI & Visualization**: Power BI  
+- **Database**: Google BigQuery, MySQL, PostgreSQL, SQL Server
 
 ---
 
@@ -44,10 +43,11 @@ Helps leadership identify opportunities for market expansion and strategic focus
 **Engineer of Software Engineering** – Nguyen Tat Thanh University (GPA: 3.20/4.0)
 
 **Certifications**  
-- Nguyen Tat Thanh University – (Basic Level) – Self-Management Skills (Time Management, Problem Solving, Job
-Search Skills) – 2024 – 2024
-- SQL Advanced (HackerRank)  
-- Data Coaching 1:1 (Unigap)
+- **HackerRank** – Advanced SQL - 2025
+- **DataCamp** – Completed courses in SQL, Power BI, Python, Machine Learning – 2025
+- **UnigapData** - Completed Data Analytics Course - 2025
+- **Nguyen Tat Thanh University** - Basic Certificate in Self-Management (Time Management, Problem Solving, Job
+Search Skills) - 2024
 
 ---
 
