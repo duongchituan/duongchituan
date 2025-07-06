@@ -41,7 +41,6 @@ Helps leadership identify opportunities for market expansion and strategic focus
 ## 🎓 Education & Certifications
 
 **Engineer of Software Engineering** – Nguyen Tat Thanh University (GPA: 3.20/4.0)
-
 **Certifications**  
 - **HackerRank** – Advanced SQL - 2025
 - **DataCamp** – Completed courses in SQL, Power BI, Python, Machine Learning – 2025
