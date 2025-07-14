@@ -25,7 +25,7 @@ This scalable solution supports personalized marketing based on real customer be
 
 ---
 
-### [Sales & Market Expansion Analysis (Power BI)](https://github.com/Simbacodee/Sales-And-Market-Expansion-Analysis-PowerBI)  
+### [Sales & Market Expansion Analysis For A Global Superstore (Power BI)](https://github.com/Simbacodee/Sales-And-Market-Expansion-Analysis-PowerBI)  
 Power BI dashboard for visualizing company-wide sales performance and product trends.  
 Helps leadership identify opportunities for market expansion and strategic focus areas.
 
