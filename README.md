@@ -29,6 +29,11 @@ This scalable solution supports personalized marketing based on real customer be
 Power BI dashboard for visualizing company-wide sales performance and product trends.  
 Helps leadership identify opportunities for market expansion and strategic focus areas.
 
+---  
+
+### [Purchasing Performance Analysis For A Global Superstore (PowerBI)](https://github.com/duongchituan/Purchasing-Performance-Analysis-For-A-Global-Superstore)  
+This Power BI project delivers an Operations Dashboard to help leadership monitor procurement performance, track supplier reliability, and make data-driven decisions. It aims to improve supply chain efficiency, reduce risk, and support smarter purchasing strategies.
+
 ---
 
 ## 🛠️ Technical Skills
