@@ -34,6 +34,11 @@ Helps leadership identify opportunities for market expansion and strategic focus
 ### [Purchasing Performance Analysis For A Global Superstore (PowerBI)](https://github.com/duongchituan/Purchasing-Performance-Analysis-For-A-Global-Superstore)  
 This Power BI project delivers an Operations Dashboard to help leadership monitor procurement performance, track supplier reliability, and make data-driven decisions. It aims to improve supply chain efficiency, reduce risk, and support smarter purchasing strategies.
 
+---  
+
+### [Churn Prediction & Segmentation For Retention Strategy For Ecommerce (Python)](https://github.com/duongchituan/Churn-Prediction-Segmentation-For-Retention-Strategy-For-Ecommerce-Machine-Learning-Python/blob/main/README.md)  
+A churn prediction and segmentation system that identifies high-risk users, analyzes churn behavior, and enables targeted retention strategies through behavioral clustering.
+
 ---
 
 ## 🛠️ Technical Skills
